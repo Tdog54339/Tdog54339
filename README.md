@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning how to code python
 - 💞️ I’m looking to collaborate on Websites
-- 📫 How to reach me on my profile 
+- 📫 How to reach me? On my profile!
 
 <!---
 Tdog54339/Tdog54339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
